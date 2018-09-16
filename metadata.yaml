@@ -1,0 +1,26 @@
+_repo: Satyrische-Abhandlung-von-den-Krankheiten-der-Frauenspersonen-welche-sie-sich-durch-ihren-Put__51930
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reinhard, Christian Tobias Ephraim
+    birthdate: 1719
+    deathdate: 1792
+    gutenberg_agent_id: '46606'
+    url: http://www.gutenberg.org/2009/agents/46606
+description: ''
+gutenberg_issued: '2016-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51930'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women''s clothing'
+- !lcsh 'Women -- Diseases -- Early works to 1800'
+- !lcc 'RC'
+- GITenberg
+title: Satyrische Abhandlung von den Krankheiten der Frauenspersonen, welche sie sich
+  durch ihren Putz und Anzug zuziehen
+url: http://www.gutenberg.org/ebooks/51930
