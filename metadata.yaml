@@ -1,5 +1,8 @@
 _repo: Satyrische-Abhandlung-von-den-Krankheiten-der-Frauenspersonen-welche-sie-sich-durch-ihren-Put__51930
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51930-h/images/cover.jpg
 creator:
   author:
     agent_name: Reinhard, Christian Tobias Ephraim
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '46606'
     url: http://www.gutenberg.org/2009/agents/46606
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51930#Satyrische-Abhandlung-von-den-Krankheiten-der-Frauenspersonen-welche-sie-sich-durch-ihren-Put_
 gutenberg_issued: '2016-05-01'
 gutenberg_type: Text
 identifiers:
